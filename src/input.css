@@ -1,18 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Braah+One&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("https://fonts.googleapis.com/css2?family=Braah+One&display=swap");
 
 body {
-  font-family: "Braah One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
   /* background: url("./img/pk_12.jpg"), #000000; */
   background: linear-gradient(
       rgba(0, 0, 0, 0.94) 100%,
       rgba(0, 0, 0, 0.94) 100%
     ),
     url("./img/pk_12_full.jpg");
+}
+
+.font-braah {
+  font-family: "Braah One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .text-amber {
