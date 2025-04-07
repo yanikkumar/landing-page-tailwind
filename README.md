@@ -2,6 +2,8 @@
 This is a simple landing page for startup launch. 
 If you want to create an email list before launching your product. You can use and modify this template.
 
+> LINK: [https://yanikkumar.github.io/landing-page-tailwind/src](https://yanikkumar.github.io/landing-page-tailwind/src)
+
 ### Techonologies 
 HTML, CSS, JS, TailwindCSS
 
